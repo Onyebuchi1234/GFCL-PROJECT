@@ -13,7 +13,7 @@ order.html - Page to Order Selected Food
 category_foods.html - Page to list all the Foods based on Category Selected
 food_search.html - Page to list all the Foods based on Search keyword
 For Sponsor or Project Enquiry
-Email -[ hi@vijaythapa.com](https://mail.google.com/mail/u/0/#inbox)
+Email -(https://mail.google.com/mail/u/0/#inbox)
 
 Follow Me on
 Instagram - (https://www.instagram.com/onye.buchi20/?hl=en)
